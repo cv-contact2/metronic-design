@@ -42105,97 +42105,65 @@ code:not([class*=language-]) {
 .badge-light-white {
   color:#fff
 }
-.badge-light ,
-.badge-hover-light:hover,
-.badge-hover-light:focus{
+.badge-light {
   color:#7e8299;
   background-color:#f5f8fa
 }
-.badge-light-light,
-.badge-hover-light-light:hover,
-.badge-hover-light-light:focus{
+.badge-light-light {
   color:#f5f8fa
 }
-.badge-primary,
-.badge-hover-primary:hover,
-.badge-hover-primary:focus {
+.badge-primary {
   color:#fff;
   background-color:#009ef7
 }
-.badge-light-primary,
-.badge-hover-light-primary:hover,
-.badge-hover-light-primary:focus{
+.badge-light-primary {
   color:#009ef7;
   background-color:#f1faff
 }
-.badge-secondary,
-.badge-hover-secondary:hover,
-.badge-hover-secondary:focus{
+.badge-secondary {
   color:#3f4254;
   background-color:#e4e6ef
 }
-.badge-light-secondary,
-.badge-hover-light-secondary:hover,
-.badge-hover-light-secondary:focus{
+.badge-light-secondary {
   color:#e4e6ef
 }
-.badge-success,
-.badge-hover-sucess:hover,
-.badge-hover-sucess:focus{
+.badge-success {
   color:#fff;
   background-color:#50cd89
 }
-.badge-light-success,
-.badge-hover-light-sucess:hover,
-.badge-hover-light-sucess:focus{
+.badge-light-success {
   color:#50cd89;
   background-color:#e8fff3
 }
-.badge-info,
-.badge-hover-info:hover,
-.badge-hover-info:focus{
+.badge-info {
   color:#fff;
   background-color:#7239ea
 }
-.badge-light-info,
-.badge-hover-light-info:hover,
-.badge-hover-light-info:focus{
+.badge-light-info {
   color:#7239ea;
   background-color:#f8f5ff
 }
-.badge-warning,
-.badge-hover-warning:hover,
-.badge-hover-warning:focus{
+.badge-warning {
   color:#fff;
   background-color:#ffc700
 }
-.badge-light-warning,
-.badge-hover-light-warning:hover,
-.badge-hover-light-warning:focus{
+.badge-light-warning {
   color:#ffc700;
   background-color:#fff8dd
 }
-.badge-danger,
-.badge-hover-danger:hover,
-.badge-hover-danger:focus{
+.badge-danger {
   color:#fff;
   background-color:#f1416c
 }
-.badge-light-danger,
-.badge-hover-light-danger:hover,
-.badge-hover-light-danger:focus{
+.badge-light-danger {
   color:#f1416c;
   background-color:#fff5f8
 }
-.badge-dark,
-.badge-hover-dark:hover,
-.badge-hover-dark:focus{
+.badge-dark {
   color:#fff;
   background-color:#181c32
 }
-.badge-light-dark,
-.badge-hover-light-dark:hover,
-.badge-hover-light-dark:focus{
+.badge-light-dark {
   color:#181c32;
   background-color:#eff2f5
 }
