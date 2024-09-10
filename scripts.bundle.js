@@ -2146,7 +2146,7 @@ var KTUtil = function () {
         return i = i.toString(16).length > 1 ? i.toString(16) : `0${i.toString(16)}`, i
       };
       return e = e.indexOf("#") >= 0 ? e.substring(1, e.length) : e, t = parseInt(255 * t / 100),
-        `#${n(e.substring(0,2),t)}${n(e.substring(2,4),t)}${n(e.substring(4,6),t)}`
+        `#${n(e.substring(0, 2), t)}${n(e.substring(2, 4), t)}${n(e.substring(4, 6), t)}`
     },
     colorDarken: function (e, t) {
       const n = function (e, t) {
@@ -2155,7 +2155,7 @@ var KTUtil = function () {
         return i = i.toString(16).length > 1 ? i.toString(16) : `0${i.toString(16)}`, i
       };
       return e = e.indexOf("#") >= 0 ? e.substring(1, e.length) : e, t = parseInt(255 * t / 100),
-        `#${n(e.substring(0,2),t)}${n(e.substring(2,4),t)}${n(e.substring(4,6),t)}`
+        `#${n(e.substring(0, 2), t)}${n(e.substring(2, 4), t)}${n(e.substring(4, 6), t)}`
     },
     throttle: function (e, t, n) {
       e || (e = setTimeout((function () {
