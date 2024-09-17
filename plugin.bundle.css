@@ -9067,7 +9067,7 @@ body.swal2-toast-shown .swal2-container.swal2-bottom-right {
         format("truetype"), 
         url('https://raw.githubusercontent.com/cv-contact2/test-pages/main/keenicons-duotone.woff?eut7fk') 
         format("woff"), 
-        url('https://raw.githubusercontent.com/cv-contact2/test-pages/main/keenicons-duotone.eot?eut7fk') 
+        url('https://raw.githubusercontent.com/cv-contact2/test-pages/main/keenicons-duotone.svg?eut7fk') 
         format("svg");
     font-weight: 400;
     font-style: normal;
