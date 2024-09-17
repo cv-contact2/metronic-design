@@ -9060,11 +9060,12 @@ body.swal2-toast-shown .swal2-container.swal2-bottom-right {
 
 @font-face {
     font-family: keenicons-duotone;
-    src: url('https://cv-contact2.github.io/test-pages/keenicons-duotone.eot');
+    src: url('https://raw.githubusercontent.com/cv-contact2/test-pages/main/keenicons-duotone.eot?eut7fk');
     src: url('https://raw.githubusercontent.com/cv-contact2/test-pages/main/keenicons-duotone.eot?eut7fk') 
-        format("embedded-opentype"), url(/keenicons-duotone.ttf?eut7fk) 
+        format("embedded-opentype"), 
+        url('https://raw.githubusercontent.com/cv-contact2/test-pages/main/keenicons-duotone.ttf?eut7fk') 
         format("truetype"), 
-        url('https://raw.githubusercontent.com/cv-contact2/test-pages/main/keenicons-duotone.eot?eut7fk') 
+        url('https://raw.githubusercontent.com/cv-contact2/test-pages/main/keenicons-duotone.woff?eut7fk') 
         format("woff"), 
         url('https://raw.githubusercontent.com/cv-contact2/test-pages/main/keenicons-duotone.eot?eut7fk') 
         format("svg");
